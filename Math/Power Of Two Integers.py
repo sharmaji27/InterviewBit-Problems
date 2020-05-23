@@ -5,7 +5,7 @@ Example
 
 Input : 4
 Output : True  
-as 2^2 = 4. 
+as 2^2 = 4
 '''
 class Solution:
     # @param A : integer
