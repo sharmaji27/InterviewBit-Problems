@@ -1,4 +1,4 @@
-'''
+9'''
 Remove Duplicates from Sorted Array
 
 Given a sorted array, remove the duplicates in place such that each element can appear atmost twice and return the new length.
